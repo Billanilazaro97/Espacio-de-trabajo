@@ -1,0 +1,23 @@
+body{background-color: rgba(7, 7, 7, 0.958);  text-align: justify;}
+
+h1 {
+    color: black;
+    font-family: cursive;
+}
+p{
+    color: black;
+    font-family: cursive;
+}
+li{
+    color: black;
+    font-family: cursive;
+    
+}
+body {
+    background-image: url(/image/OIP.jpeg);
+    background-size: auto;
+    
+    
+}
+
+
